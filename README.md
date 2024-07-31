@@ -20,8 +20,7 @@
 9. [Exploración de los desafíos encontrados durante el desarrollo y cómo se abordaron](#exploración-de-los-desafíos-encontrados-durante-el-desarrollo-y-cómo-se-abordaron)
 10. [Recomendaciones](#recomendaciones)
 11. [Agradecimientos](#agradecimientos)
-12. [Observaciones Futuras](#observaciones-futuras)
-13. [Conclusiones](#conclusiones)
+12. [TRAMVET](#TRAMVET)
 
 ## Introducción
 La documentación ofrece una guía detallada sobre el uso de la plataforma Spatial en el contexto de un proyecto de museo virtual interactivo. El objetivo principal es utilizar Spatial para diseñar un entorno inmersivo que permita a los visitantes explorar obras de arte y artefactos históricos de manera interactiva.
@@ -102,7 +101,7 @@ Expresamos nuestro más sincero agradecimiento a todas las personas e institucio
 - José Alfredo Gaytán Díaz, nuestro coordinador.
 - Christian Jonathan Ángel Rueda, nuestro Jefe de Investigación.
 - A nuestro valioso equipo de trabajo.
-# Editor.md
+# TRAMVET
 
 ![Logo TAMVET](https://i.imgur.com/Ahxipax.png)
 
@@ -111,5 +110,4 @@ Expresamos nuestro más sincero agradecimiento a todas las personas e institucio
 ![Tag](https://img.shields.io/github/tag/JorgeMedellin/tramvet-development-spatial-experiencia-museistica.svg)
 ![Release](https://img.shields.io/github/release/JorgeMedellin/tramvet-development-spatial-experiencia-museistica.svg)
 ![Issues](https://img.shields.io/github/issues/JorgeMedellin/tramvet-development-spatial-experiencia-museistica.svg)
-
 
